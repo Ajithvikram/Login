@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "Ajith",
+      "password": "9e423cca0e2efab9aa09a13c778a8ced"
+    },
+    {
+      "id": "2",
+      "name": "Gowtham",
+      "password": "f07f19b8d09666ef3abc5d0413d1a52f"
+    },
+    {
+      "id": "3",
+      "name": "Prabhakaran",
+      "password": "37ec37eff3ede5b8ab1343f3442e4835"
+    },
+    {
+      "id": "4",
+      "name": "Kalaivani",
+      "password": "b4855894f9e4059044d9ee03b680e5f4"
+    },
+    {
+      "name": "Parameshwari",
+      "password": "c3654fee7f60041a4a6e78042d32435a",
+      "id": "apjoNYs"
+    },
+    {
+      "name": "Vikram",
+      "password": "4f03a3d7d3dffa764d27606ff3773311",
+      "id": "L8dL1rj"
+    }
+  ]
+}

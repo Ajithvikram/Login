@@ -1,0 +1,51 @@
+.logg{
+  text-align: center;
+  font-size: 40px;
+  color: darkgreen;
+}
+
+.pass{
+  border :none;
+  padding: 10px 15px;
+  font: small-caption + font-size(1.8);
+  width: calc(100%-50px);
+  color: darkred;
+  outline: none;
+  line-height: 1.5;
+}
+
+.log {
+  text-align: center;
+  margin-top: 370px;
+  margin-left: 400px;
+  margin-right: 300px;
+  border-radius: 70%;
+  border-right-width: 100px;
+}
+
+.form{
+  background-color:transparent;
+  opacity: 2vh;
+  margin-left: 100px;
+  margin-right: 200px;
+}
+
+.App {
+  background-image: url('image.jpg');
+  background-repeat: no-repeat;
+  background-color:#FFBF00;
+  background-position: fixed;
+  height: 100vh;
+}
+
+.button {
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: initial;
+  background-clip: padding-box;
+}
+
+.button:hover {
+  background-color: red;
+}
+

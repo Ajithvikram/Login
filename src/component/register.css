@@ -1,0 +1,39 @@
+
+
+.h2{
+    background-color: black;
+    color:gold;
+    text-align: center;
+    font-size: 6vh;
+}
+
+   
+
+.in1{
+    background-color: khaki;
+    margin-left: 500px;
+    margin-right: 500px;
+    margin-top: 150px;
+    border-style: inset;
+}
+
+.h3{
+    text-align: center;
+    color:black;
+}
+.name1{
+    margin-left: 100px;
+    width: 200px;
+    height:27px;
+    padding: 15px;
+}
+.pass1{
+    margin-left: 75px;
+    width: 200px;
+    height: 27px;
+    padding: 15px;
+
+}
+.btn1{
+    margin-left: 170px;
+}

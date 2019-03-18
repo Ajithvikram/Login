@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "0",
+      "name": "iEXEMPLAR"
+    },
+    {
+      "id": "1",
+      "name": "Employee"
+    },
+    {
+      "user": {
+        "name": "ajith",
+        "password": "827ccb0eea8a706c4c34a16891f84e7b"
+      },
+      "id": "Dm3NCN3"
+    }
+  ]
+}

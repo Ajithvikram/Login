@@ -1,0 +1,46 @@
+{
+    "data":[
+    {
+        "id":"1",
+        "name":"Ajith",
+        "age":"21",
+        "dob":"12.10.1997"
+    },
+    {
+        "id":"2",
+        "name":"Gowtham",
+        "age":"16",
+        "dob":"18.05.2003"
+    },
+    {
+        "id":"3",
+        "name":"Prabhakaran",
+        "age":"54",
+        "dob":"23.12.1964"
+    },
+    {
+        "id":"4",
+        "name":"Kalaivani",
+        "age":"44",
+        "dob":"26.03.1974"
+    }
+],
+"columns" :[
+    {
+        "Header" : "ID",
+        "accessor": "id"
+    },
+    {
+        "Header":"Name",
+        "accessor":"name"
+    },
+    {
+        "Header":"Age",
+        "accessor": "age"
+    },
+    {
+        "Header":"D.O.B",
+        "accessor":"dob"
+    }
+]
+}
